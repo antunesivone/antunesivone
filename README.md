@@ -4,12 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=IvoneAntunes&color=green)
 
-- :computer: I'm Ivone, a Frontend Developer! 
+- :computer: I'm Ivone, a computer engineering student! 
 - 👨‍💻 I like to build things with C, Java e PostgreSQL.
 - 🌱 I'm currently learning to Java e PostgreSQL.
 - 💬 Ask me about: tech, movies, science and music.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
+#foconoproposito
 
 ### ✨ GitHub Analytics
 
