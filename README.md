@@ -4,11 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=IvoneAntunes&color=green)
 
-- :computer: I'm Tatiane, a Frontend Developer! 
-- 🔭 I'm currently working for a precision agriculture company.
-- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases and modern backend APIs.
-- 🌱 I'm currently learning to use Serverless framework.
-- 💬 Ask me about: tech, movies, animes.
+- :computer: I'm Ivone, a Frontend Developer! 
+- 👨‍💻 I like to build things with C, Java e PostgreSQL.
+- 🌱 I'm currently learning to Java e PostgreSQL.
+- 💬 Ask me about: tech, movies, science and music.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
 
