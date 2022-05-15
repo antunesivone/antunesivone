@@ -7,7 +7,7 @@
 - :computer: I'm Ivone, a computer engineering student! 
 - 👨‍💻 I like to build things with C, Java e PostgreSQL.
 - 🌱 I'm currently learning to Java e PostgreSQL.
-- 💬 Ask me about: tech, movies, science and music.
+- 💬 Ask me about: tech, entrepreneur and art.
 
 #foconoproposito
 
