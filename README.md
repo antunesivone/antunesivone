@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/IvoneAntuness/IvoneAntuness/blob/master/images/illustration.png" width="300"/>
+
 
 
 # 👩🏻‍💻 Ivone Antunes
