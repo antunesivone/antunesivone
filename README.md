@@ -1,51 +1,169 @@
 <img align="right" src="https://github.com/IvoneAntuness/IvoneAntuness/blob/master/images/illustration.png" width="300"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends 
 
-![](https://komarev.com/ghpvc/?username=IvoneAntuness&color=green)
+# 👩🏻‍💻 Ivone Antunes
 
-- :computer: I'm Ivone, a computer engineering student! 
-- 👨‍💻 I like to build things with C, Java e PostgreSQL.
-- 🌱 I'm currently learning to Java e PostgreSQL.
-- 💬 Ask me about: tech, entrepreneur and art.
+**`Desenvolvedora Web`**
 
-#foconoproposito
+Desenvolvedora Web Jr, de Piracicaba-SP, com 3+ anos de experiência. Minha jornada TI começou na graduação Engenharia da Computação (IFSP), participação do programa de residência tech no Instituto Hardware BR (bolsa Futuro Digital). Curso complementar em Gestão de Projetos e Empreendedorismo (IFSP).
 
-### ✨ GitHub Analytics
+Atuo unindo design, usabilidade e código limpo na construção de interfaces, com consumo de APIs RESTful, integração de Inteligência Artificial e boas práticas de segurança no Front-End. Experiência prática com WordPress e Nuvemshop, portfólio voltado a projetos de SaaS, Varejo, Marketplace e E-commerce. Trabalho com metodologias ágeis (Scrum, Squad).
 
-<p align="center">
-  <a href="https://github.com/IvoneAntuness">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IvoneAntuness&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=IvoneAntuness&count_private=true&theme=dark"/>
-  </a>
+📍 Piracicaba-SP &nbsp;|&nbsp; 🟢 Disponibilidade imediata
+
+<p align="left">
+    <a href="https://github.com/antunesivone?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/antunesivone?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/antunesivone?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/antunesivone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
-### 🛠 Tech Stack
-<div align="center"> 
+---
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-</div>
+### 🤖 Linguagens e Tecnologias
 
-<div align="center"> 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px; background-color: white; border-radius: 4px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoneAntuness&layout=compact&langs_count=8&theme=dark)
+<br/>
+<br/>
 
-</div>
+### 🔗 Integração & APIs
 
-### 📝 Contacts
+`APIs REST` &nbsp;•&nbsp; `Webhooks` &nbsp;•&nbsp; `Microsserviços` &nbsp;•&nbsp; `Integração de IA` &nbsp;•&nbsp; `ServiceNow (ITSM)` &nbsp;•&nbsp; `Nuvemshop`
 
-<div align="center"> 
+### 🎯 Metodologia & Soft Skills
 
-  <a href="https://www.linkedin.com/in/ivone-antunes-de-souza-68383722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:antunesivone436@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.youtube.com/channel/UCKyBkY5OlIiVLSvoj9eSaFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <!-- <a href="https://www.instagram.com/jpantunes13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+`Scrum / Squad` &nbsp;•&nbsp; `Interpretação de Regras de Negócio` &nbsp;•&nbsp; `Estimativa de Esforço` &nbsp;•&nbsp; `Casos de Teste` &nbsp;•&nbsp; `Liderança` &nbsp;•&nbsp; `Comunicação Assertiva`
 
-</div>
+---
+
+### 💼 Trajetória
+
+- 🏢 Experiência em ambientes corporativos e institucionais complexos: **Raízen** e **Diretoria Regional de Saúde**
+- 🎓 Residência tecnológica no **Instituto Hardware BR** (bolsa Futuro Digital)
+- 🏁 Treinamento e participação na **Maratona de Programação IFSP (InterIF)**
+- 🤝 Mentora voluntária no **Pré-vestibular IF**
+- ☕ Participação ativa nas comunidades **Dev Pira** e **Café Agile**
+- 📚 Estudo contínuo via **Udemy**, **Duolingo** e **BeeCrowd**
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=antunesivone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesivone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ---
 
