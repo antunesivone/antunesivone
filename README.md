@@ -7,7 +7,7 @@
 
 Desenvolvedora Web Jr, de Piracicaba-SP, com 3+ anos de experiência. Minha jornada TI começou na graduação Engenharia da Computação (IFSP), participação do programa de residência tech no Instituto Hardware BR (bolsa Futuro Digital). Curso complementar em Gestão de Projetos e Empreendedorismo (IFSP).
 
-Atuo unindo design, usabilidade e código limpo na construção de interfaces, com consumo de APIs RESTful, integração de Inteligência Artificial e boas práticas de segurança no Front-End. Experiência prática com WordPress e Nuvemshop, portfólio voltado a projetos de SaaS, Varejo, Marketplace e E-commerce. Trabalho com metodologias ágeis (Scrum, Squad).
+Atuo unindo design, usabilidade e código limpo na construção de interfaces, com consumo de APIs RESTful, integração de Inteligência Artificial e boas práticas de segurança. Experiência prática com WordPress e Nuvemshop, portfólio voltado a projetos de SaaS, Varejo, Marketplace e E-commerce. Trabalho com metodologias ágeis (Scrum, Squad).
 
 
 
