@@ -4,7 +4,7 @@
 # Ivone Antunes
 <h1 align="center">Desenvolvedora Web</h1>
 
-<p align="left">
+<p align="center">
   <img
     src="https://github.com/user-attachments/assets/4171fa20-e4e6-426a-ae43-7f5572410298"
     width="180px"
