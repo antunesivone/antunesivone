@@ -160,20 +160,6 @@ Disponível para oportunidades como Desenvolvedora Web, contribuindo com soluç�
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=antunesivone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesivone&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Principais Tecnologias"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=antunesivone&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Contribution Streak"
