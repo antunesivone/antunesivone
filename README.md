@@ -3,7 +3,13 @@
 
 # Ivone Antunes
 
-<img width="1254" height="1254" alt="ChatGPT Image 11 de ago  de 2026, 12_19_49" src="https://github.com/user-attachments/assets/4171fa20-e4e6-426a-ae43-7f5572410298" />
+<p align="left">
+  <img
+    src="https://github.com/user-attachments/assets/4171fa20-e4e6-426a-ae43-7f5572410298"
+    width="180px"
+    alt="Ivone Antunes - Dev Icon"
+  />
+</p>
 
 
 **`Desenvolvedora Web`**
