@@ -156,13 +156,29 @@ Disponível para oportunidades como Desenvolvedora Web, contribuindo com soluç�
 ---
 📊 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antunesivone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="180" alt="GitHub Stats" />
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesivone&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" height="180" alt="Principais tecnologias" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=antunesivone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesivone&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Principais Tecnologias"
+  />
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=antunesivone&theme=tokyonight&hide_border=true&locale=pt_BR" height="180" alt="GitHub Contribution Streak" /> </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=antunesivone&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antunesivone&theme=tokyonight" alt="Resumo do perfil GitHub" /> </p>
 
