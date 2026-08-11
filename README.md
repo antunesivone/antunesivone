@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Ivone Antunes</h1>
-<h3 align="center">Desenvolvedora Web</h3>
+<h2 align="center">Desenvolvedora Web</h2>
 
 <p align="center">
   <img
