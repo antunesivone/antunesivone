@@ -10,9 +10,7 @@
     alt="Ivone Antunes - Dev Icon"
   />
 </p>
-
-
-**`Desenvolvedora Web`**
+<h1 align="center">Desenvolvedora Web</h1>
 
 Desenvolvedora Web Jr, de Piracicaba-SP, com 3+ anos de experiência. Minha jornada TI começou na graduação em Engenharia da Computação (IFSP – Campus Piracicaba), consolidada através do programa de residência tecnológica no Instituto Hardware BR (bolsista Futuro Digital), e formação complementar em Gestão de Projetos e Empreendedorismo (IFSP).
 
