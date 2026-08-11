@@ -154,7 +154,6 @@ Disponível para oportunidades como Desenvolvedora Web, contribuindo com soluç�
 - 📚 Estudo contínuo via **Udemy**, **Duolingo** e **BeeCrowd**
 
 ---
-📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
